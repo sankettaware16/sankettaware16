@@ -111,22 +111,6 @@ I love solving complex security problems with innovative, cost-effective solutio
 
 ---
 
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/sankettaware16/foss-soc-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankettaware16&repo=foss-soc-engine&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/sankettaware16/TLSOCDockerDeploy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankettaware16&repo=TLSOCDockerDeploy&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sankettaware16/foss-soc-blueprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankettaware16&repo=foss-soc-blueprint&theme=radical&hide_border=true" />
-  </a>
-</p>
 
 ---
 
