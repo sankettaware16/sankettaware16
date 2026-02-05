@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 I am a **Security Engineer** building **open-source SIEM/SOC solutions** with expertise in:
-- 🔐 **Agentless security monitoring** for cloud-native environments
+- 🔐 **Agentless security monitoring** for on-prem environments
 - ⚡ **Kafka-native architectures** for high-throughput log processing
 - 🛠️ **Python-based detection engines** with YAML-driven parsing
 - 🌐 **TLS-secured ELK stack** deployments
@@ -40,7 +40,7 @@ I love solving complex security problems with innovative, cost-effective solutio
 ---
 
 ### 🐳 [TLSOCDockerDeploy](https://github.com/sankettaware16/TLSOCDockerDeploy)
-**One-click TLS-secured ELK stack deployment for enterprise security**
+**One-click TLS-secured ELK stack deployment for University security**
 
 - 🔒 **TLS encryption** by default (all internal communication)
 - 📦 **Docker Compose** orchestration
@@ -121,6 +121,7 @@ I love solving complex security problems with innovative, cost-effective solutio
 - ☁️ Cloud security posture management (AWS/GCP/Azure)
 - 🎯 Advanced threat hunting techniques
 - 🤖 Automated incident response and SOAR
+- 🤖 Exploring Agentic AI
 
 ---
 
