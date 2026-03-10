@@ -26,6 +26,18 @@ I love solving complex security problems with innovative, cost-effective solutio
 
 ## 🚀 Featured Projects
 
+### 🛡️ [FOSS SOC Engine](https://github.com/sankettaware16/LLMGuard)
+**Browser extension for real-time API key detection and blocking in LLM web interfaces**
+
+**Secret scanning** - Detects 30+ patterns (OpenAI, AWS, GitHub keys) via regex
+- 🚫 **Smart blocking** - Shadow DOM overlays with severity badges and overrides
+- 📈 **Event logging** - Local storage for audits, with popup stats and CSV export
+- 🎛️ **Analytics dashboard** - Hourly trends, platform rankings, key-type breakdowns
+**Tech:** JavaScript, Chrome Extension API, Manifest v3, Vanilla JS
+
+
+---
+
 ### 🔥 [FOSS SOC Engine](https://github.com/sankettaware16/foss-soc-engine)
 **Kafka-based YAML-driven log parsing engine for agentless SOC pipelines**
 
