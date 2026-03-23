@@ -149,12 +149,6 @@ I love solving complex security problems with innovative, cost-effective solutio
   </a>
 </p>
 
-<p align="center">
-  🔗 <a href="https://www.linkedin.com/in/sanket-taware-a33645177/" target="_blank">
-    Visit my LinkedIn Profile
-  </a>
-</p>
-
 ---
 
 ## 💭 Quote
