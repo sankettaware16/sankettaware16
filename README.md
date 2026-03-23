@@ -140,14 +140,20 @@ I love solving complex security problems with innovative, cost-effective solutio
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:sankettawarework@gmail.com">
+  <a href="mailto:sankettawarework@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-sankettawarework@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sanket-taware-a33645177/">
+  
+  <a href="https://www.linkedin.com/in/sanket-taware-a33645177/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sanket%20Taware-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/sanket-taware-a33645177/" target="_blank">
+    Visit my LinkedIn Profile
+  </a>
+</p>
 
 ---
 
