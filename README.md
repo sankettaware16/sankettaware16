@@ -26,6 +26,18 @@ I love solving complex security problems with innovative, cost-effective solutio
 
 ## 🚀 Featured Projects
 
+### 🌐 [TLSOC — Open-Source Security Operations Platform](https://github.com/sankettaware16/tlsoc)
+**Complete Security Operations Platform delivering SIEM capabilities — agentless log collection, ECS-normalized parsing, centralized analytics, and automated reporting**
+
+- 🧩 **Modular ecosystem** - Parsing engine, TLS-secured ELK/Kafka stack, and reporting framework composing into one platform
+- 📡 **Agentless collection** - Native rsyslog + omkafka forwarding, nothing installed on monitored servers
+- 📐 **Full platform documentation** - Architecture diagrams, quick start, design rationale, and roadmap
+- 📊 **Executive reporting** - Automated daily HTML/PDF reports with KPIs, charts, and insights
+
+**Tech:** Kafka, Elasticsearch, Kibana, Python, Docker, TLS, ECS
+
+---
+
 ### 🛡️ [FOSS LLMGaurd](https://github.com/sankettaware16/LLMGuard)
 **Browser extension for real-time API key detection and blocking in LLM web interfaces**
 
